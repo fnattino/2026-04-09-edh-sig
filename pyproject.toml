@@ -8,6 +8,7 @@ dependencies = [
     "dask>=2026.3.0",
     "dcachefs>=0.2.0",
     "fsspec>=2026.3.0",
+    "gcsfs>=2026.3.0",
     "h5netcdf>=1.8.1",
     "h5py>=3.16.0",
     "jupyterlab>=4.5.6",
